@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1DF3DCEB-C79D-45CE-AC44-05DC49D6A39E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PTTSearch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AB850DCAE20505353355A55C71DEBBEC21D8186B</key>
+		<string>https://github.com/ipalm0423/PTTSearch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PTTSearch.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AB850DCAE20505353355A55C71DEBBEC21D8186B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ipalm0423/PTTSearch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AB850DCAE20505353355A55C71DEBBEC21D8186B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AB850DCAE20505353355A55C71DEBBEC21D8186B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PTTSearch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
